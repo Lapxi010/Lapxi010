@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Lapxi010</h1>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapxi010)](https://github.com/anuraghazra/github-readme-stats)
 
