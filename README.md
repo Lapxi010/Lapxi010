@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lapxi010</h1>
 
 <h3 align="center">
-    Student 16yo, developer from Russia
+    Student 18yo, developer from Russia
 </h3> 
 
 ### **My skills**
